@@ -1,0 +1,21 @@
+[
+    {
+      "nombreUsuario": "tomas petrovich",
+      "contrasena": "coderhouse",
+      "fotoPerfil": "https://i.pinimg.com/originals/25/b5/25/25b5256156cfe5ca93e1d7f80a562836.jpg",
+      "biografia": "me encantan los autos"
+    },
+    {
+      "nombreUsuario": "adrian gonzalez",
+      "contrasena": "coderhouse",
+      "fotoPerfil": "https://yt3.ggpht.com/-yIxcpDUA0Ek/AAAAAAAAAAI/AAAAAAAAAAA/2GW311Zn2f8/s900-c-k-no/photo.jpg",
+      "biografia": "soy el profe de javascript"
+    },
+    {
+      "nombreUsuario": "nahuel lopez",
+      "contrasena": "coderhouse",
+      "fotoPerfil": "https://www.computerhope.com/jargon/j/javascript.png",
+      "biografia": "soy el tutor de javascript"
+    }
+  ]
+  

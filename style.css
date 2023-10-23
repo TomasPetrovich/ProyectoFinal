@@ -1,0 +1,135 @@
+/* Reset de estilos */
+body{
+    margin: 0;
+    padding: 0;
+}
+#navbar {
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+#navbar h1 {
+    margin: 0;
+}
+
+body {
+    margin-top: 70px; /* Ajuste del contenido para evitar que se solape con el navbar */
+}
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+}
+
+#login-container, #register-container {
+    max-width: 400px;
+    margin: 80px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#authenticated-section{
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#title{
+    text-align: center;
+}
+
+#username-display{
+    text-align: center;
+}
+
+#show-register-button {
+   margin-top: 5px;
+} 
+
+#show-register-button:hover {
+    opacity: 1; /* aumenta la opacidad al pasar el ratón sobre el botón */
+}
+
+h2 {
+    color: #333;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    text-align: center;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+.error-message, .success-message {
+    color: #c0392b;
+    margin-top: 10px;
+}
+
+
+
+#user-profile {
+    text-align: left;
+}
+
+.circular-image {
+    margin-left: 38%;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+
+#biography-paragraph{
+    text-align: center;
+}
+
+#tweet-container {
+    margin-top: 20px;
+}
+
+#tweet-input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+/* Agregar estilos adicionales según sea necesario */
